@@ -1,18 +1,17 @@
 ## ☂️
 
-i like to develop things
+Software Engineer experienced in:
+- C++
+- Graphics / Engine Programming
+- Full-Stack Development
 
-<!--
-**MaxPilipovic/MaxPilipovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech
+C++, C#, Java, JavaScript
 
-Here are some ideas to get you started:
+## 🚀 Current Projects
+- Minecraft-style voxel engine in C++
+- Full-stack web apps
+- Devlogs on YouTube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Links
+YouTube: https://youtube.com/@maxpilipovic
