@@ -14,4 +14,4 @@ C++, C#, Java, JavaScript
 - Devlogs on YouTube
 
 ## 🌐 Links
-YouTube: https://youtube.com/@maxpilipovic
+YouTube: https://youtube.com/@DevByMaxx
