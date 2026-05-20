@@ -5,7 +5,7 @@ Software Engineer experienced in:
 - Graphics / Engine Programming
 - Full-Stack Development
 
-## 🔧 Tech
+## 🔧 Languages
 C++, C#, Java, JavaScript
 
 ## 🚀 Current Projects
