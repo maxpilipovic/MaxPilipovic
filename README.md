@@ -1,6 +1,6 @@
 ## ☂️
 
 **Software Engineer**
-- C++
+- **C++**, C#, JS, Java
 - Graphics & Engine Programming
-- Full-Stack Development - C#, JS, Java
+- Full-Stack Development
